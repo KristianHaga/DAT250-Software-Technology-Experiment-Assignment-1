@@ -6,7 +6,7 @@ No problems during installation. Everything went extremly smooth.
 
 ### Installation Validation
 
-![](./images/Mongo-verify2.png)
+![](./images/Mongo-verify.png)
 
 ## Experiment 1
 
