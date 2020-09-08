@@ -6,13 +6,13 @@ No problems during installation. Everything went extremly smooth.
 
 ### Installation Validation
 
-![](./images/Mongo-verify.png)
+![](/images/Mongo-verify.png)
 
 ## Experiment 1
 
 ### Insert Document: 
 
-![](./images/insert-documents.png)
+![](/images/insert-documents.png)
 
 ### Query Documents: 
 
