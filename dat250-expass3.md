@@ -6,13 +6,15 @@ No problems during installation. Everything went extremly smooth.
 
 ### Installation Validation
 
-![](/images/Mongo-verify.png)
+Image not showing in GitHub. Works fine in VSCode Markdown Preview. Can be seen in images/Mongo-verify2
+
+![](./images/Mongo-verify2.png)
 
 ## Experiment 1
 
 ### Insert Document: 
 
-![](/images/insert-documents.png)
+![](./images/insert-documents.png)
 
 ### Query Documents: 
 
