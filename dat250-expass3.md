@@ -1,5 +1,13 @@
 # Assignment 3
 
+## Installation
+
+No problems during installation. Everything went extremly smooth. 
+
+### Installation Validation
+
+![](./images/Mongo-verify2.png)
+
 ## Experiment 1
 
 ### Insert Document: 
