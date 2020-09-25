@@ -6,7 +6,7 @@ I cut this assignment down a bit, due to approaching deadlines in other courses.
 
 Exercise 1 went very smoothly, tested the `GET` and `PUT` requests using Postman.  
 
-In exercise 2 i used the template for jpa-basic from Assignment 2. I added the Spark functionality and made implementations for the `GET`, `PUT`, `UPDATE` and `DELETE` requests. The `GET` requests can be made using a specific ID or without ID to return all the objets.
+In exercise 2 i used the template for jpa-basic from Assignment 2. I added the Spark functionality and made implementations for the `GET`, `PUT`, `UPDATE` and `DELETE` requests in the App.java file. The `GET` requests can be made using a specific ID or without ID to return all the objets.
 
 ## Technical Difficulties
 
